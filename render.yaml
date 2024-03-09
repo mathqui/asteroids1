@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: mathquiz
+    env: docker
+    plan: free
